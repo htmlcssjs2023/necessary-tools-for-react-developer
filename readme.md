@@ -1,0 +1,23 @@
+## Important vscode package for React Developer
+
+- Auto Close Tag
+- Auto Import - ES6, TS, JSX, TSX
+- ES7 + React/Redux/React-Native snippets
+- ESLint
+- GitLense -- Git supercharged
+- JavaScript Debugger (Nightly)
+- Live Server
+- Live Share
+- Metrial Icon theme
+- Monakai Pro
+- npm Intellisense
+- path Intellisense
+- prettier - Code formatter
+- reactjs code snippets
+- simple react snippets
+- snipped
+- stylelint
+- tailwind css intellisense
+- vscode react refactor
+- vscode icons team
+- 
